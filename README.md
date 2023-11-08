@@ -68,8 +68,8 @@ GitHub Analytics
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chinmay-Maitre08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chinmay-Maitre08&layout=compact&langs_count=8&theme=algolia"/>
 <br>
 <br>
  <img src="https://streak-stats.demolab.com?user=Chinmay-Maitre08&theme=tokyonight&hide_border=true&border_radius=4.7" alt="Chinmay-Maitre08" width="50%"   />
