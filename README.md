@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">
  Heyy there! Chinmay here! 👋
 </h3>
