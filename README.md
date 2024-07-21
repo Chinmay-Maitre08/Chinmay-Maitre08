@@ -11,7 +11,7 @@
 
 
 <h3 align="center">
-📱 Currently Learning as Cyber Threat Analyst 
+📱 Passionate about everything!!
 </h3>
 
 <h1 align="center">
